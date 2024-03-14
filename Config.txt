@@ -1,0 +1,10 @@
+def this is function_1:
+	some defination
+	some other definition
+	return 0
+
+
+def this is function_2:
+	some definition
+	some other definition
+	return 0
