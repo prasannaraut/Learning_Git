@@ -7,4 +7,5 @@ def this is function_1:
 def this is function_2:
 	some definition
 	some other definition
+	some minor changes are added in function 2
 	return 0
